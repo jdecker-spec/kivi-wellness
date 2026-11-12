@@ -1,9 +1,17 @@
 {
- "run_date": "2026-11-12",
- "status": "prepared",
- "posts": ["/blog/weekly-athlete-check-in-for-coaches/", "/blog/30-day-employee-wellness-pilot/"],
- "basis": "Audience intent hypotheses; no settled query dataset used",
- "checks": "38-page structural audit passed; coach article content and links inspected in browser; screenshot/mobile visual check unavailable due browser timeout",
- "sources": ["https://www.cdc.gov/workplacehealthpromotion/pdf/WorkplaceHealth-Checklist.pdf", "https://www.olympics.com/ioc/news/new-ioc-consensus-statement-calls-for-system-wide-action-and-regular-monitoring-to-support-athlete-mental-health"],
- "images": "Two original generated editorial illustrations, compressed WebP, descriptive alt text"
+  "run_date": "2026-11-12",
+  "status": "published",
+  "posts": [
+    "/blog/weekly-athlete-check-in-for-coaches/",
+    "/blog/30-day-employee-wellness-pilot/"
+  ],
+  "basis": "Audience intent hypotheses; no settled query dataset used",
+  "checks": "38-page structural audit passed; coach article content and links inspected in browser; screenshot/mobile visual check unavailable due browser timeout",
+  "sources": [
+    "https://www.cdc.gov/workplacehealthpromotion/pdf/WorkplaceHealth-Checklist.pdf",
+    "https://www.olympics.com/ioc/news/new-ioc-consensus-statement-calls-for-system-wide-action-and-regular-monitoring-to-support-athlete-mental-health"
+  ],
+  "images": "Two original generated editorial illustrations, compressed WebP, descriptive alt text",
+  "publication_commit": "c367a18",
+  "verification": "Both ordinary-domain HTTPS articles, journal index, sitemap and two images returned 200. Both articles have matching canonicals and valid JSON-LD; mobile navigation and analytics scripts preserved."
 }
