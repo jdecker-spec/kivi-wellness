@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-13",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/personal-training-client-progress-review/",
@@ -19,5 +19,7 @@
     "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
   ],
   "checks": "40-page structural audit; new-page anchor/date/schema checks; mobile rendered dimensions without horizontal overflow, images loaded, trainer menu opens, journal single-column mobile and three-column desktop. Screenshot API timed out.",
-  "topic_basis": "Audience intent hypotheses; no new settled GSC/GA data used"
+  "topic_basis": "Audience intent hypotheses; no new settled GSC/GA data used",
+  "publication_commit": "c77825b",
+  "verification": "Both ordinary-domain HTTPS articles, images, journal index and sitemap returned 200; article titles/canonicals/schema verified, navigation and analytics scripts preserved."
 }
