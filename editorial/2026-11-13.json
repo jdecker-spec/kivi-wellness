@@ -1,0 +1,23 @@
+{
+  "run_date": "2026-11-13",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/personal-training-client-progress-review/",
+      "audience": "Personal trainers",
+      "intent": "Client progress review template",
+      "evidence": "Original coaching workflow; no factual medical or quantitative claim"
+    },
+    {
+      "url": "https://kiviwellness.com/blog/physical-therapist-wellness-franchise-owner-role/",
+      "audience": "Physical therapists considering ownership",
+      "intent": "Owner role, staffing and existing-practice relationship",
+      "evidence": "Original planning exercise plus FTC general franchise guidance"
+    }
+  ],
+  "sources": [
+    "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
+  ],
+  "checks": "40-page structural audit; new-page anchor/date/schema checks; mobile rendered dimensions without horizontal overflow, images loaded, trainer menu opens, journal single-column mobile and three-column desktop. Screenshot API timed out.",
+  "topic_basis": "Audience intent hypotheses; no new settled GSC/GA data used"
+}

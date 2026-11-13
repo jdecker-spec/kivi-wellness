@@ -17,3 +17,9 @@ Articles include answer-first question headings, clear practical examples, FAQs,
 
 ## Next review
 Use settled date ranges and distinguish consent-limited GA4 traffic from GSC clicks. Review queries, landing pages, CTR, engagement, inquiry key events and discovery-call clicks (clicks are not booked calls). Avoid treating early low-volume fluctuations as trends. Rotate subsequent topics toward trainers, nutritionists, health professionals and franchise operators/investors, with separate search intent and substantiated product fit. Revisit the two new pages when impressions are available before producing close variants.
+
+## November 13 publication
+- Trainers: /blog/personal-training-client-progress-review/ — individual-client goal/evidence/action review template, distinct from team check-in cadence. Original operational advice, not a validated assessment or a software feature claim.
+- Physical therapists: /blog/physical-therapist-wellness-franchise-owner-role/ — owner-role mapping and relationship with an existing practice, distinct from the generic franchise buying guide. FTC primary source supports general franchise due diligence; no Kivi financial or legal structure claims.
+- Topic basis: audience/search-intent hypotheses using the launch baseline, not new query-volume or conversion evidence. No fresh Analytics/Search Console analysis claimed. Next rotate to nutritionists and investors with different problems.
+- Added distinct generated WebP illustrations, visible AI labels, descriptive alt text, metadata, schema, sitemap entries, and contextual links from related older posts.
