@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-14",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/nutrition-coaching-onboarding-questions/",
@@ -35,5 +35,7 @@
     "interpretation": "Prelaunch brand-only limited data; no new topic volumes inferred"
   },
   "checks": "42-page structural audit; new-page dates, anchors, schema and canonical checks; both articles mobile rendered dimensions without overflow and loaded images; smallest phone/index 320px fits, 9 cards, one column. Desktop override reset.",
-  "images": "Two new original generated editorial illustrations with visible labels, descriptive alt text and compressed WebP"
+  "images": "Two new original generated editorial illustrations with visible labels, descriptive alt text and compressed WebP",
+  "publication_commit": "df56881",
+  "verification": "Both public HTTPS article pages, two WebP images, journal index and sitemap returned200. Titles, canonicals and valid schema confirmed; analytics and mobile-navigation scripts preserved."
 }
