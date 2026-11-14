@@ -23,3 +23,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Physical therapists: /blog/physical-therapist-wellness-franchise-owner-role/ — owner-role mapping and relationship with an existing practice, distinct from the generic franchise buying guide. FTC primary source supports general franchise due diligence; no Kivi financial or legal structure claims.
 - Topic basis: audience/search-intent hypotheses using the launch baseline, not new query-volume or conversion evidence. No fresh Analytics/Search Console analysis claimed. Next rotate to nutritionists and investors with different problems.
 - Added distinct generated WebP illustrations, visible AI labels, descriptive alt text, metadata, schema, sitemap entries, and contextual links from related older posts.
+
+## November 14 publication
+- Nutrition professionals: /blog/nutrition-coaching-onboarding-questions/ — first-conversation routine, access, preferences and support expectations. Original non-clinical workflow, distinct from trainer progress review; no meal prescription or assessment claim.
+- Investors: /blog/wellness-franchise-cost-worksheet/ — startup/recurring/cash timing and simplified break-even assumptions, distinct from the owner-role guide. Primary sources: FTC franchise buying guide and SBA break-even calculator. No Kivi costs, earnings or ROI invented.
+- Search Console checked November14: selected 3 months, actual chart only November10; 0 clicks,75 impressions,0%CTR,position8. Visible queries kivi66, kiwi+wellness2, k i v i1 impressions. This limited prelaunch branded evidence does not establish demand for either new topic. Topics remain audience/search-intent hypotheses. GA4 not freshly analysed during this publication run.
+- Existing guides now link contextually to new posts; journal and sitemap updated; two distinct generated illustrations in compressed WebP.
+- Next audiences: companies/team program buyers or other health professionals, using distinct operational questions rather than more onboarding/review templates. Weekly review should revisit real search performance before close variants.

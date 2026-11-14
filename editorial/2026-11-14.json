@@ -1,0 +1,39 @@
+{
+  "run_date": "2026-11-14",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/nutrition-coaching-onboarding-questions/",
+      "audience": "Nutrition professionals",
+      "intent": "Nutrition coaching onboarding questions; routine and support expectations",
+      "evidence": "Original non-clinical conversation framework"
+    },
+    {
+      "url": "https://kiviwellness.com/blog/wellness-franchise-cost-worksheet/",
+      "audience": "Franchise investors",
+      "intent": "Cost worksheet and break-even assumptions",
+      "evidence": "Original worksheet framework with FTC and SBA primary references"
+    }
+  ],
+  "sources": [
+    "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise",
+    "https://bec.www.sba.gov/"
+  ],
+  "gsc_evidence": {
+    "checked": "2026-11-14",
+    "selected_range": "3 months",
+    "actual_chart_date": "2026-11-10",
+    "clicks": 0,
+    "impressions": 75,
+    "ctr": "0%",
+    "average_position": 8,
+    "visible_query_impressions": {
+      "kivi": 66,
+      "kiwi+wellness": 2,
+      "k i v i": 1
+    },
+    "interpretation": "Prelaunch brand-only limited data; no new topic volumes inferred"
+  },
+  "checks": "42-page structural audit; new-page dates, anchors, schema and canonical checks; both articles mobile rendered dimensions without overflow and loaded images; smallest phone/index 320px fits, 9 cards, one column. Desktop override reset.",
+  "images": "Two new original generated editorial illustrations with visible labels, descriptive alt text and compressed WebP"
+}
