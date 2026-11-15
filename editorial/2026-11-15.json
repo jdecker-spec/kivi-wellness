@@ -1,0 +1,25 @@
+{
+  "run_date": "2026-11-15",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/corporate-wellness-software-vs-managed-program/",
+      "audience": "Company and HR buyers",
+      "intent": "Compare software-led and managed delivery",
+      "evidence": "Original comparison plus CDC program coordination checklist"
+    },
+    {
+      "url": "https://kiviwellness.com/blog/sports-team-wellness-software-demo-questions/",
+      "audience": "Sports team decision makers",
+      "intent": "Wellness software demo questions",
+      "evidence": "Original scenario-based procurement framework; not a Kivi feature specification"
+    }
+  ],
+  "sources": [
+    "https://www.cdc.gov/workplacehealthpromotion/pdf/WorkplaceHealth-Checklist.pdf"
+  ],
+  "topic_basis": "Audience hypotheses; last GSC check Nov14 only Nov10 branded prelaunch data; no fresh analytics claim",
+  "checks": "44-page structural audit, new-page dates/canonicals/schema/anchors checked. Both pages and 11-card journal fit320px without horizontal overflow; both images loaded and CTA bounds fit. Viewport reset.",
+  "images": "Two distinct original generated illustrations, compressed WebP, descriptive alt text and visible labels",
+  "access_notes": "Turn-scoped workspace write/network permission restored. Existing authenticated GitHub context used after sandbox credential failure; no new credentials or permissions granted to external services."
+}

@@ -30,3 +30,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Search Console checked November14: selected 3 months, actual chart only November10; 0 clicks,75 impressions,0%CTR,position8. Visible queries kivi66, kiwi+wellness2, k i v i1 impressions. This limited prelaunch branded evidence does not establish demand for either new topic. Topics remain audience/search-intent hypotheses. GA4 not freshly analysed during this publication run.
 - Existing guides now link contextually to new posts; journal and sitemap updated; two distinct generated illustrations in compressed WebP.
 - Next audiences: companies/team program buyers or other health professionals, using distinct operational questions rather than more onboarding/review templates. Weekly review should revisit real search performance before close variants.
+
+## November15 publication
+- Company buyers: /blog/corporate-wellness-software-vs-managed-program/ — delivery-model comparison focused on internal resources and responsibilities, distinct from provider selection and pilot planning. CDC workplace checklist supports the general coordination framework.
+- Sports team buyers: /blog/sports-team-wellness-software-demo-questions/ — scenario-based demo questions, access arrangements, responsibilities and rollout. Distinct from the existing weekly check-in routine. Original procurement framework; no unconfirmed product-feature claims.
+- Topic basis: audience/search-intent hypotheses. Last direct GSC check November14 showed only November10prelaunch branded data. No fresh GSC/GA analysis or topic-volume claim made today; weekly review scheduled next.
+- Two distinct generated WebP illustrations, descriptive alt text and visible illustration labels; metadata/schema/dates/index/sitemap and related older articles updated.
+- Next topics should use weekly findings when available; avoid close variants of current onboarding, review, pilot, demo and investment guides.
