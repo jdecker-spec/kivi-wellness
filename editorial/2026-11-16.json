@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-16",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/wellness-team-handoff-checklist/",
@@ -20,5 +20,7 @@
   ],
   "topic_basis": "Audience hypotheses; no fresh query-volume or analytics claim; scheduled weekly review later today",
   "checks": "46page structural audit passed; dates, anchors and schema validated. Both new articles and13card journal fit320px without horizontal overflow, images loaded and CTA bounds fit. Viewport reset.",
-  "images": "Two distinct original generated WebP editorial illustrations, descriptive alt text and visible labels"
+  "images": "Two distinct original generated WebP editorial illustrations, descriptive alt text and visible labels",
+  "publication_commit": "173701b",
+  "verification": "Both public HTTPS articles, two images, journal index and sitemap returned200; titles, canonicals, schema and preserved analytics/navigation verified."
 }
