@@ -43,3 +43,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Franchise buyers: /blog/wellness-franchise-territory-questions/ — contractual rights versus local suitability, channels, site approval and conditions; distinct from cost worksheet and owner-role guide. FTC primary source; no Kivi-specific legal terms or availability invented.
 - Topic basis remains explicit audience/search-intent hypotheses using prior launch evidence; no new Analytics/Search Console analysis claimed. This daily run precedes the scheduled Monday review. Preserve subsequent weekly plan edits.
 - Updated journal/index/sitemap and contextual links from nutrition onboarding and franchise cost worksheet. Two distinct generated WebP images with descriptive alt text and illustration labels.
+
+## November 16 weekly review
+- First usable baseline: GSC November 10–14 has 4 clicks / 277 impressions, predominantly branded. GA4 November 7–13 has 21 sessions and 3 discovery-call clicks from 2 users; no inquiry key event recorded. History and consent prevent reliable prior-week or conversion conclusions.
+- Refreshed existing corporate platform selection guide for an early nonbrand question (2 impressions), rather than publish a competing article. Restored /locations/ as availability guidance after 15 impressions on a 404. Clarified homepage and corporate metadata/answers.
+- User confirmed /health-plans/ is retired. Keep removed, without unrelated redirect.
+- Future topic hypotheses: workplace wellness communication for shift-based employees; end-of-season athlete feedback conversations for coaches; franchise staff training responsibilities and questions to verify in discovery. Check existing coverage before commissioning. These are audience hypotheses, not measured keyword-volume claims.
+- Prioritize updating the existing platform guide when related queries emerge; avoid more overlapping onboarding, weekly review, demo, pilot or investment checklists. Measure lead and discovery events separately from traffic. See editorial/weekly-2026-11-16.md for dated evidence and limits.
