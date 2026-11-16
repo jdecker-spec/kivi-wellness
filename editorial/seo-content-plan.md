@@ -37,3 +37,9 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Topic basis: audience/search-intent hypotheses. Last direct GSC check November14 showed only November10prelaunch branded data. No fresh GSC/GA analysis or topic-volume claim made today; weekly review scheduled next.
 - Two distinct generated WebP illustrations, descriptive alt text and visible illustration labels; metadata/schema/dates/index/sitemap and related older articles updated.
 - Next topics should use weekly findings when available; avoid close variants of current onboarding, review, pilot, demo and investment guides.
+
+## November16 daily publication
+- Professional teams: /blog/wellness-team-handoff-checklist/ — accepted task ownership, timing and confirmation, distinct from onboarding and progress review. Original general coordination framework, not clinical referral or software-feature specification.
+- Franchise buyers: /blog/wellness-franchise-territory-questions/ — contractual rights versus local suitability, channels, site approval and conditions; distinct from cost worksheet and owner-role guide. FTC primary source; no Kivi-specific legal terms or availability invented.
+- Topic basis remains explicit audience/search-intent hypotheses using prior launch evidence; no new Analytics/Search Console analysis claimed. This daily run precedes the scheduled Monday review. Preserve subsequent weekly plan edits.
+- Updated journal/index/sitemap and contextual links from nutrition onboarding and franchise cost worksheet. Two distinct generated WebP images with descriptive alt text and illustration labels.

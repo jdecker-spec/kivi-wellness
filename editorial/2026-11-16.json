@@ -1,0 +1,24 @@
+{
+  "run_date": "2026-11-16",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/wellness-team-handoff-checklist/",
+      "audience": "Wellness and health professional teams",
+      "intent": "Handoff ownership and follow-through checklist",
+      "evidence": "Original non-clinical operations framework"
+    },
+    {
+      "url": "https://kiviwellness.com/blog/wellness-franchise-territory-questions/",
+      "audience": "Franchise investors and professional buyers",
+      "intent": "Franchise territory and location due-diligence questions",
+      "evidence": "Original questions grounded in FTC general franchise guidance"
+    }
+  ],
+  "sources": [
+    "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
+  ],
+  "topic_basis": "Audience hypotheses; no fresh query-volume or analytics claim; scheduled weekly review later today",
+  "checks": "46page structural audit passed; dates, anchors and schema validated. Both new articles and13card journal fit320px without horizontal overflow, images loaded and CTA bounds fit. Viewport reset.",
+  "images": "Two distinct original generated WebP editorial illustrations, descriptive alt text and visible labels"
+}
