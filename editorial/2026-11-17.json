@@ -1,0 +1,36 @@
+{
+  "run_date": "2026-11-17",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/shift-worker-wellness-communication/",
+      "title": "Wellness communication for shift workers: reach every schedule",
+      "audience": "Workplace participation",
+      "intent": "Plan clear invitations, accessible support and realistic follow-up for employees on different shifts without relying on a single daytime announcement."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/end-of-season-athlete-feedback/",
+      "title": "End-of-season athlete feedback: turn reflection into a clearer next season",
+      "audience": "Coaching and team growth",
+      "intent": "Lead a useful season review with athlete questions, a practical conversation structure and a clear follow-up plan that keeps feedback separate from selection decisions."
+    }
+  ],
+  "sources": [
+    "https://www.cdc.gov/workplace-health-promotion/php/model/index.html"
+  ],
+  "topic_basis": "November16 weekly plan audience hypotheses; insufficient nonbrand history for topic-volume claims",
+  "images": "Two distinct original AI-generated editorial illustrations, labeled; WebP and natural descriptive alt text",
+  "checks": "49-page structural audit passed. Dates, JSON-LD, TOC anchors, metadata, sitemap uniqueness, source/deploy sync and preserved analytics/navigation passed. Both articles and 15-card journal checked at 320px without horizontal overflow; hero images loaded and CTA bounds fit. Viewport reset.",
+  "image_generation": {
+    "mode": "built-in image_gen",
+    "assets": [
+      "site/assets/shift-worker-wellness-communication.webp",
+      "site/assets/end-of-season-athlete-feedback.webp"
+    ],
+    "prompts": [
+      "Landscape 3:2 textured professional wellness illustration, shift workers talking in a break room at dusk, blank noticeboard, plant, warm ivory/oak/sky blue/forest, no text/logos/medical UI.",
+      "Landscape 3:2 textured editorial illustration, adult coach and athlete reviewing blank notebook on bench beside empty field, trees, ivory/forest/sky blue, no logos/text/injury/medical scene."
+    ],
+    "note": "Prompt descriptions retained for editorial provenance; source images in Codex generated_images. Neither depicts real clients."
+  }
+}

@@ -50,3 +50,11 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - User confirmed /health-plans/ is retired. Keep removed, without unrelated redirect.
 - Future topic hypotheses: workplace wellness communication for shift-based employees; end-of-season athlete feedback conversations for coaches; franchise staff training responsibilities and questions to verify in discovery. Check existing coverage before commissioning. These are audience hypotheses, not measured keyword-volume claims.
 - Prioritize updating the existing platform guide when related queries emerge; avoid more overlapping onboarding, weekly review, demo, pilot or investment checklists. Measure lead and discovery events separately from traffic. See editorial/weekly-2026-11-16.md for dated evidence and limits.
+
+
+## November 17 daily publication
+- Companies/HR: /blog/shift-worker-wellness-communication/ — invitation reach and practical access across schedules, distinct from pilot design and procurement. CDC workplace model supports coordinated worker-centered planning; operational examples are original.
+- Coaches: /blog/end-of-season-athlete-feedback/ — seasonal reflection and shared next actions, distinct from weekly monitoring and software demo selection. Original conversation framework, not a validated assessment or clinical advice.
+- Selected from November16 weekly plan as audience/search-intent hypotheses. GSC baseline 4 clicks /277 impressions is primarily branded; no topic-volume or growth claim. No fresh GA/GSC pull during this daily run.
+- Two distinct generated editorial illustrations in compressed WebP with descriptive alt text and visible illustration labels. Existing program-model and weekly-check-in articles gain relevant discovery links.
+- Avoid close variants of these communication and season-review topics. Next rotation: trainers, nutrition professionals or franchise staff training; check existing coverage first.
