@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-17",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/shift-worker-wellness-communication/",
@@ -32,5 +32,7 @@
       "Landscape 3:2 textured editorial illustration, adult coach and athlete reviewing blank notebook on bench beside empty field, trees, ivory/forest/sky blue, no logos/text/injury/medical scene."
     ],
     "note": "Prompt descriptions retained for editorial provenance; source images in Codex generated_images. Neither depicts real clients."
-  }
+  },
+  "publication_commit": "83622ff",
+  "verification": "Both ordinary public HTTPS articles, two WebP images, journal and sitemap returned 200; titles, canonicals, publication dates, valid schema and preserved navigation/analytics verified. Both article cards and sitemap entries present."
 }
