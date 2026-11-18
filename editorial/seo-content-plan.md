@@ -58,3 +58,11 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Selected from November16 weekly plan as audience/search-intent hypotheses. GSC baseline 4 clicks /277 impressions is primarily branded; no topic-volume or growth claim. No fresh GA/GSC pull during this daily run.
 - Two distinct generated editorial illustrations in compressed WebP with descriptive alt text and visible illustration labels. Existing program-model and weekly-check-in articles gain relevant discovery links.
 - Avoid close variants of these communication and season-review topics. Next rotation: trainers, nutrition professionals or franchise staff training; check existing coverage first.
+
+
+## November 18 daily publication
+- Trainers: /blog/personal-training-client-reengagement/ — respectful reconnection after missed sessions, distinct from progress review and onboarding. Original service communication framework; no retention statistics or medical advice.
+- Franchise buyers: /blog/wellness-franchise-staff-training-support/ — training eligibility, later hires, ongoing support and local responsibilities. FTC primary source for general disclosure investigation, not a description of Kivi contractual support. Distinct from costs, territory and owner-role guides.
+- Topics are audience/search-intent hypotheses informed by November16 weekly plan and gaps in existing coverage. Latest saved GSC baseline 4 clicks/277 impressions is predominantly branded; no invented keyword volume or new analytics analysis.
+- Distinct original generated WebP illustrations, truthful organization authorship, contextual links, natural discovery CTAs, dated metadata/schema, index and sitemap.
+- Next rotation should consider nutrition professionals or athlete end-user practical questions, avoiding close variants of current onboarding, review, communication and franchise due-diligence articles.

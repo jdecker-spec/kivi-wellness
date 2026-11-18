@@ -1,0 +1,36 @@
+{
+  "run_date": "2026-11-18",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/personal-training-client-reengagement/",
+      "title": "How to re-engage personal training clients after missed sessions",
+      "audience": "Personal training relationships",
+      "intent": "Use a respectful follow-up, clarify whether a client wants to restart, and agree on a realistic next step without pressure or assumptions about their health."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/wellness-franchise-staff-training-support/",
+      "title": "Wellness franchise staff training: what should buyers verify?",
+      "audience": "Franchise team readiness",
+      "intent": "Examine who receives training, how new hires learn the system, what ongoing help costs and which operating responsibilities remain with the franchise owner."
+    }
+  ],
+  "sources": [
+    "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
+  ],
+  "evidence": "FTC Item11/training investigation paraphrased briefly; remaining examples and frameworks original. No Kivi training commitment, medical, earnings or retention promise.",
+  "topic_basis": "November16 weekly plan and content inventory; audience hypotheses, not measured volume. No fresh GA/GSC pull.",
+  "checks": "51-page structural audit passed. Metadata, dates, JSON-LD, TOC anchors, unique sitemap URLs, synchronized deploy copies and preserved analytics/navigation validated. Both articles and 17-card journal fit actual 320px viewport without horizontal overflow; hero images loaded and CTA bounds fit. Viewport reset.",
+  "images": "Two distinct labeled built-in image_gen illustrations; optimized WebP with descriptive alt text",
+  "image_generation": {
+    "mode": "built-in image_gen",
+    "assets": [
+      "site/assets/personal-training-client-reengagement.webp",
+      "site/assets/wellness-franchise-staff-training-support.webp"
+    ],
+    "prompts": [
+      "Landscape 3:2 painterly trainer at oak desk composing a phone message beside blank planner, calm studio and plant, ivory/sky blue/forest, no readable UI or logos.",
+      "Landscape 3:2 painterly three fictional colleagues learning around blank training binder in bright wellness studio, oak, trees, ivory/sky blue/forest, no logos, certificates or medical treatment."
+    ]
+  }
+}
