@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-18",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/personal-training-client-reengagement/",
@@ -32,5 +32,7 @@
       "Landscape 3:2 painterly trainer at oak desk composing a phone message beside blank planner, calm studio and plant, ivory/sky blue/forest, no readable UI or logos.",
       "Landscape 3:2 painterly three fictional colleagues learning around blank training binder in bright wellness studio, oak, trees, ivory/sky blue/forest, no logos, certificates or medical treatment."
     ]
-  }
+  },
+  "publication_commit": "e9713bd",
+  "verification": "Both ordinary HTTPS articles, images, journal and sitemap returned200 after Cloudflare deployment; correct titles, canonicals, dates and valid schema; navigation/analytics preserved. Both new cards and sitemap entries present."
 }
