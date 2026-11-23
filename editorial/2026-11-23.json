@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-23",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/employee-wellness-program-responsibility-matrix/",
@@ -32,5 +32,7 @@
       "Landscape3:2 painterly HR lead and colleagues arranging blank blue/ivory responsibility cards on wall board, oak, plant and sunlight; no text, logos or medical scene.",
       "Landscape3:2 painterly professional arranging three blank service cards beside closed tablet at oak desk, tree shadows and Kivi colors; no patient records, medical procedure or earnings imagery."
     ]
-  }
+  },
+  "publication_commit": "bd64d16",
+  "verification": "Both ordinary HTTPS articles, two WebP images, journal and sitemap returned200; titles, canonicals, publication dates and valid schema verified. Both journal cards/sitemap entries present; analytics/navigation preserved."
 }
