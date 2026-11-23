@@ -76,3 +76,11 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Avoid further close diary/participation-question variants. Future coverage can explore a distinct health-professional service-design problem or employer service ownership, subject to the weekly data and existing inventory.
 
 - November22 catch-up: these two saved drafts published with actual November22 visible/schema dates; do not recreate as a new pair.
+
+
+## November23 daily publication
+- HR: /blog/employee-wellness-program-responsibility-matrix/ — internal program ownership and recurring task assignment after procurement; distinct from delivery-model selection, pilot design and employee invitations. CDC general coordinated-program context; matrix/examples original.
+- Health professionals: /blog/define-wellness-service-offer-practice/ — define an offer and client journey before choosing tools/business format; distinct from franchise ownership due diligence and client onboarding. Original planning framework, no regulated scope, product, clinical or financial promise.
+- Topic basis: gaps and audience rotation from November16 weekly plan; saved GSC baseline is predominantly branded with insufficient nonbrand evidence. No fresh GA/GSC analysis during this daily run, which precedes the scheduled Monday review. Preserve later weekly changes.
+- Two labeled generated editorial WebP illustrations, natural alt text, organization authorship, contextual backlinks, discovery CTAs, dates/schema, journal and sitemap.
+- Avoid close ownership-matrix/service-definition variants next. Use weekly evidence when available and choose a distinct audience problem rather than another generic checklist.

@@ -1,0 +1,36 @@
+{
+  "run_date": "2026-11-23",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/employee-wellness-program-responsibility-matrix/",
+      "title": "Who owns an employee wellness program? A responsibility matrix for HR",
+      "audience": "Workplace program operations",
+      "intent": "Assign practical responsibility for employee communication, provider coordination, support and program review so a wellness launch has a clear operating owner."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/define-wellness-service-offer-practice/",
+      "title": "Adding a wellness service to your practice: define the offer first",
+      "audience": "Professional practice growth",
+      "intent": "Clarify who a new wellness service is for, what support it includes, how clients enter it and which responsibilities your practice must be ready to deliver."
+    }
+  ],
+  "sources": [
+    "https://www.cdc.gov/workplace-health-promotion/php/model/index.html"
+  ],
+  "topic_basis": "Audience/content-gap hypotheses based on saved weekly plan; no fresh analytics or keyword-volume claim. Daily run before weekly review.",
+  "evidence": "Brief CDC coordination context; original role map and service-planning questions. No medical, ROI, feature or contractual-support claims.",
+  "images": "Two distinct original built-in generated illustrations, labeled; compressed WebP and descriptive alt text",
+  "checks": "55-page structural audit passed. Dates, JSON-LD, metadata, TOC anchors, unique sitemap URLs and source/deploy sync validated. Both articles and21-card journal fit320px without horizontal overflow; hero images loaded and CTA bounds fit. Viewport reset.",
+  "image_generation": {
+    "mode": "built-in image_gen",
+    "assets": [
+      "site/assets/employee-wellness-program-responsibility-matrix.webp",
+      "site/assets/define-wellness-service-offer-practice.webp"
+    ],
+    "prompts": [
+      "Landscape3:2 painterly HR lead and colleagues arranging blank blue/ivory responsibility cards on wall board, oak, plant and sunlight; no text, logos or medical scene.",
+      "Landscape3:2 painterly professional arranging three blank service cards beside closed tablet at oak desk, tree shadows and Kivi colors; no patient records, medical procedure or earnings imagery."
+    ]
+  }
+}
