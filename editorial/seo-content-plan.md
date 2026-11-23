@@ -66,3 +66,13 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Topics are audience/search-intent hypotheses informed by November16 weekly plan and gaps in existing coverage. Latest saved GSC baseline 4 clicks/277 impressions is predominantly branded; no invented keyword volume or new analytics analysis.
 - Distinct original generated WebP illustrations, truthful organization authorship, contextual links, natural discovery CTAs, dated metadata/schema, index and sitemap.
 - Next rotation should consider nutrition professionals or athlete end-user practical questions, avoiding close variants of current onboarding, review, communication and franchise due-diligence articles.
+
+
+## November 19 drafts — published November 22
+- Nutrition professionals: /blog/food-diary-nutrition-coaching-conversation/ — context-led discussion of an existing record, distinct from intake/onboarding and no dietary prescription. NIDDK primary source briefly supports general record/barrier reflection; proposed questions/examples original.
+- Athletes: /blog/athlete-team-wellness-app-questions/ — participation expectations, access questions and support routes before joining, distinct from team-buyer procurement and coaching review. FTC general app privacy guidance; no claims about Kivi app operations or legal compliance.
+- Topics follow November16 plan and audience rotation as search-intent hypotheses. Last saved GSC baseline 4 clicks/277 impressions mostly branded; no fresh GA/GSC pull or volume claim today.
+- New labeled generated WebP artwork, natural alt text, truthful organization author, related links, dates/schema, index/sitemap and natural discovery CTAs. Existing nutrition intake and team demo guides link to the new resources.
+- Avoid further close diary/participation-question variants. Future coverage can explore a distinct health-professional service-design problem or employer service ownership, subject to the weekly data and existing inventory.
+
+- November22 catch-up: these two saved drafts published with actual November22 visible/schema dates; do not recreate as a new pair.

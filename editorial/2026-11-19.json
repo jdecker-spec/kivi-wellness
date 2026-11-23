@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-11-19",
+  "status": "prepared_for_catch_up",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/food-diary-nutrition-coaching-conversation/",
+      "title": "How to use a food diary in a nutrition coaching conversation",
+      "audience": "Nutrition coaching practice",
+      "intent": "Turn a food diary into a useful conversation about routines, context and practical support, without treating incomplete entries as a test of commitment."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/athlete-team-wellness-app-questions/",
+      "title": "Joining a team wellness app: questions athletes should ask first",
+      "audience": "For the athlete",
+      "intent": "Understand the purpose, expectations, information access and support arrangements before joining a team wellness app, so you know what participation involves."
+    }
+  ],
+  "sources": [
+    "https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health",
+    "https://consumer.ftc.gov/consumer-alerts/2021/01/does-your-health-app-protect-your-sensitive-info"
+  ],
+  "topic_basis": "Content gaps and audience rotation from November16 weekly plan; insufficient nonbrand data for topic-volume claims. No fresh GA/GSC analysis.",
+  "evidence": "Brief primary-source summaries; original practical questions/examples. No treatment, feature, privacy-compliance, guaranteed outcome or financial claim.",
+  "images": "Two distinct built-in image_gen editorial illustrations, visibly labeled, WebP with natural alt text",
+  "checks": "53-page structural audit passed. November22 publication dates/schema, metadata, anchors and sitemap validated. Both articles and19-card journal checked at320px: no horizontal overflow, images loaded, CTA bounds fit. Viewport reset.",
+  "image_generation": {
+    "mode": "built-in image_gen",
+    "assets": [
+      "site/assets/food-diary-nutrition-coaching-conversation.webp",
+      "site/assets/athlete-team-wellness-app-questions.webp"
+    ],
+    "prompts": [
+      "Nutrition professional and adult client discussing blank food journal beside lunch container; textured painterly ivory, sky blue, forest; no numbers, medical treatment or claims.",
+      "Adult athlete and staff member discussing phone by field, oak bench and trees; textured painterly Kivi colors; no readable screen or real-client representation."
+    ]
+  },
+  "publication_date": "2026-11-22"
+}
