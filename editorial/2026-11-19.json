@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-19",
-  "status": "prepared_for_catch_up",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/food-diary-nutrition-coaching-conversation/",
@@ -34,5 +34,7 @@
       "Adult athlete and staff member discussing phone by field, oak bench and trees; textured painterly Kivi colors; no readable screen or real-client representation."
     ]
   },
-  "publication_date": "2026-11-22"
+  "publication_date": "2026-11-22",
+  "publication_commit": "ed3a493",
+  "verification": "Both ordinary public HTTPS articles, two WebP assets, journal and sitemap returned200; correct canonicals, dates and valid schema; analytics/navigation preserved. Mobile checks passed at320px."
 }
