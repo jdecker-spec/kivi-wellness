@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-24",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/group-vs-one-to-one-coaching-workflow/",
@@ -21,5 +21,60 @@
   "topic_basis": "November23 weekly content-plan hypotheses; no measured volume or fresh analytics claim for these new topics. Preserve existing coach/report/platform query targets.",
   "evidence": "Original workflow/planning examples; brief FTC Item17 summary. No Kivi contract terms, earnings, clinical, performance or unverified app-feature claim.",
   "images": "Two distinct original built-in generated editorial illustrations, labeled; WebP and descriptive alt text",
-  "checks": "57-page structural audit passed; metadata/schema/date/anchors and sitemap validated; both articles and 23-card journal rendered at 320px with images loaded, CTA within viewport and no horizontal overflow; viewport reset. Public verification pending."
+  "checks": "57-page structural audit passed; metadata/schema/date/anchors and sitemap validated; both articles and 23-card journal rendered at 320px with images loaded, CTA within viewport and no horizontal overflow; viewport reset. Live HTTPS articles, images, journal and sitemap verified HTTP 200 with expected metadata and both entries.",
+  "publication_commit": "53fc366",
+  "verification": [
+    {
+      "route": "/blog/group-vs-one-to-one-coaching-workflow/",
+      "status": "200",
+      "bytes": 39236,
+      "title": [
+        "Group versus one-to-one coaching: plan the support before the package | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/group-vs-one-to-one-coaching-workflow/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/blog/wellness-franchise-renewal-transfer-questions/",
+      "status": "200",
+      "bytes": 39245,
+      "title": [
+        "Wellness franchise renewal and transfer: questions to ask before investing | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/wellness-franchise-renewal-transfer-questions/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/assets/group-vs-one-to-one-coaching-workflow.webp",
+      "status": "200",
+      "bytes": 262476
+    },
+    {
+      "route": "/assets/wellness-franchise-renewal-transfer-questions.webp",
+      "status": "200",
+      "bytes": 301988
+    },
+    {
+      "route": "/blog/",
+      "status": "200",
+      "bytes": 42478,
+      "both_posts_present": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": "200",
+      "bytes": 5192,
+      "both_posts_present": true
+    }
+  ]
 }
