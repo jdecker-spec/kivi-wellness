@@ -1,0 +1,25 @@
+{
+  "run_date": "2026-11-24",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/group-vs-one-to-one-coaching-workflow/",
+      "title": "Group versus one-to-one coaching: plan the support before the package",
+      "audience": "Trainer service delivery",
+      "intent": "Compare group and individual coaching workflows, shared communication, private follow-up and staff time before deciding how to package your training service."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/wellness-franchise-renewal-transfer-questions/",
+      "title": "Wellness franchise renewal and transfer: questions to ask before investing",
+      "audience": "Long-term franchise planning",
+      "intent": "Organise questions about renewal, ownership transfer and the end of a franchise relationship before treating a long-term business plan as a confirmed contract right."
+    }
+  ],
+  "sources": [
+    "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
+  ],
+  "topic_basis": "November23 weekly content-plan hypotheses; no measured volume or fresh analytics claim for these new topics. Preserve existing coach/report/platform query targets.",
+  "evidence": "Original workflow/planning examples; brief FTC Item17 summary. No Kivi contract terms, earnings, clinical, performance or unverified app-feature claim.",
+  "images": "Two distinct original built-in generated editorial illustrations, labeled; WebP and descriptive alt text",
+  "checks": "57-page structural audit passed; metadata/schema/date/anchors and sitemap validated; both articles and 23-card journal rendered at 320px with images loaded, CTA within viewport and no horizontal overflow; viewport reset. Public verification pending."
+}

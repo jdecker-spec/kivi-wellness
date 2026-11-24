@@ -93,3 +93,11 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - SitemapSuccess,last readNovember23,50discovered. Lagged indexreportNovember15:33indexed/22excluded. Some excluded examples already have search clicks; do not treat the old report as current verdicts. Keep retiredhealth-plansremoved; preserve last week'slocationsfix.
 - Priorities:measure refreshed guides over settled windows; investigate actual indexing only with current URL evidence. New briefs as hypotheses: HR program-feedback questions after delivery; trainer group-vs-individual support workflows; investor franchise renewal/transfer questions using current primary sources. Check coverage first and rotate audiences. No measured volume claim for new briefs.
 - Preserve November23 daily articles and their internal links. Weekly review adds no posts. Full dated baseline/change rationale:editorial/weekly-2026-11-23.md.
+
+
+## November24 daily publication
+- Trainers: /blog/group-vs-one-to-one-coaching-workflow/ — compare delivery responsibilities, shared versus private support and workload before packaging a service. Distinct from progress reporting, client reactivation and practice offer definition. Original framework; no feature, training or retention claim.
+- Investors/professional franchise buyers: /blog/wellness-franchise-renewal-transfer-questions/ — long-term continuation/ownership-change questions, distinct from costs, territory, staff training and owner-role guides. Current FTC general Item17 guidance, not Kivi contract or financial claims.
+- Selected from November23 weekly plan as audience/search-intent hypotheses. Latest GSCNovember14–20:8clicks/343impressions; observed coach/report/platform query signals remain assigned to their refreshed existing URLs. No new analytics pull or invented volume for today's new topics.
+- Two original labeled generated WebP illustrations, natural alt text, organization author, dated metadata/schema, relevant backlinks, discovery CTAs, index and sitemap.
+- Avoid close group-format and renewal/transfer variants next. Candidate remaining weekly gap: HR feedback questions after actual delivery; check pilot, communication and ownership articles first. Rotate audiences and keep current keyword winners on their existing pages.
