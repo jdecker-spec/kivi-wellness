@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-25",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/employee-wellness-program-feedback-questions/",
@@ -34,5 +34,60 @@
       "type": "AI-generated editorial illustration, visibly labeled"
     }
   ],
-  "checks": "59-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and 25-card journal rendered at320px with images loaded, CTA fitting and no horizontal overflow; viewport reset. Live verification pending."
+  "checks": "59-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and 25-card journal rendered at320px with images loaded, CTA fitting and no horizontal overflow; viewport reset. Both public HTTPS URLs, images, journal and sitemap verified200 with correct dates, canonical and valid schema; analytics/navigation preserved.",
+  "publication_commit": "a598e48",
+  "verification": [
+    {
+      "route": "/blog/employee-wellness-program-feedback-questions/",
+      "status": "200",
+      "bytes": 39173,
+      "title": [
+        "Employee wellness feedback questions that lead to a useful change | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/employee-wellness-program-feedback-questions/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/blog/nutrition-coaching-between-appointments-support/",
+      "status": "200",
+      "bytes": 39430,
+      "title": [
+        "Nutrition coaching between appointments: define the support before you offer it | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/nutrition-coaching-between-appointments-support/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/assets/employee-wellness-program-feedback-questions.webp",
+      "status": "200",
+      "bytes": 205346
+    },
+    {
+      "route": "/assets/nutrition-coaching-between-appointments-support.webp",
+      "status": "200",
+      "bytes": 234896
+    },
+    {
+      "route": "/blog/",
+      "status": "200",
+      "bytes": 43855,
+      "both_posts_present": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": "200",
+      "bytes": 5447,
+      "both_posts_present": true
+    }
+  ]
 }
