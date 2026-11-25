@@ -101,3 +101,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Selected from November23 weekly plan as audience/search-intent hypotheses. Latest GSCNovember14–20:8clicks/343impressions; observed coach/report/platform query signals remain assigned to their refreshed existing URLs. No new analytics pull or invented volume for today's new topics.
 - Two original labeled generated WebP illustrations, natural alt text, organization author, dated metadata/schema, relevant backlinks, discovery CTAs, index and sitemap.
 - Avoid close group-format and renewal/transfer variants next. Candidate remaining weekly gap: HR feedback questions after actual delivery; check pilot, communication and ownership articles first. Rotate audiences and keep current keyword winners on their existing pages.
+
+
+## November25 daily publication
+- HR: /blog/employee-wellness-program-feedback-questions/ — feedback after delivery, distinct from procurement, pilot design, invitations and task ownership. Brief CDC process-feedback context; original questions and examples, not a validated survey or ROI claim.
+- Nutrition professionals: /blog/nutrition-coaching-between-appointments-support/ — service contact routes and support expectations between appointments, distinct from intake and food-record interpretation. Original service framework, no dietary prescription, product-feature or clinical claim.
+- Topics are audience/search-intent hypotheses using November23 weekly plan and rotation. No fresh GA/GSC pull or invented search volume. Existing coaching/report/platform query targets remain on refreshed URLs.
+- Distinct original labeled WebP illustrations; metadata/schema, contextual links, natural discovery CTAs, journal and sitemap. Avoid close feedback-survey/support-boundary variants next.
