@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-11-27",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/personal-trainer-spreadsheets-to-coaching-software/",
+      "title": "From spreadsheets to coaching software: a transition plan for personal trainers",
+      "audience": "Trainer practice operations",
+      "intent": "Map one client workflow, test with fictional records and plan the handover before moving a training practice from spreadsheets to coaching software."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/workplace-wellness-budget-proposal/",
+      "title": "How to write a workplace wellness budget proposal leadership can evaluate",
+      "audience": "HR planning and leadership",
+      "intent": "Build a wellness budget proposal around a clear workforce need, defined scope, verified costs and a review decision rather than unsupported savings promises."
+    }
+  ],
+  "sources": [
+    "https://www.cdc.gov/workplacehealthpromotion/pdf/WorkplaceHealth-Checklist.pdf"
+  ],
+  "evidence": "Original workflow/proposal frameworks and fictional examples; brief CDC resources/planning context. No clinical, ROI, price, import or unverified feature promises.",
+  "topic_basis": "November23 weekly hypotheses and coverage gaps; no fresh analytics or measured volume claim.",
+  "images": [
+    {
+      "asset": "assets/personal-trainer-spreadsheets-to-coaching-software.webp",
+      "generated_original": "exec-3108e0b8-6e91-4305-9a90-a5486fb25f03.png",
+      "alt": "Illustrated trainer comparing blank paper grids with a laptop at an oak desk beside a training studio",
+      "type": "AI-generated editorial illustration, visibly labeled"
+    },
+    {
+      "asset": "assets/workplace-wellness-budget-proposal.webp",
+      "generated_original": "exec-ffc06b1b-d683-48d3-8609-5355633b533b.png",
+      "alt": "Illustrated HR presenter explaining a proposal using blank cards on an oak easel while colleagues listen",
+      "type": "AI-generated editorial illustration, visibly labeled"
+    }
+  ],
+  "checks": "63-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and29-cardjournal rendered at320px with imagesloaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Live verification pending."
+}

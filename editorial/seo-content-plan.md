@@ -115,3 +115,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Professional owners/investors: /blog/independent-wellness-business-vs-franchise/ — choice of business-building route before evaluating a particular opportunity; distinct from cost worksheet, owner role and contract-topic guides. Brief FTC system/support/control context; original comparison, no financial forecasts or Kivi contractual promises.
 - Audience/search-intent hypotheses informed by November23 weekly plan and coverage gaps; no fresh GA/GSC pull or invented volume. Preserve refreshed coach/report/platform URLs as existing query targets.
 - Distinct labeled generated WebP illustrations, contextual links/backlinks, dated schema/metadata, journal/sitemap and discovery CTAs. Avoid close club-coordination or independent/franchise comparisons next; rotate to another specific audience problem.
+
+
+## November27 daily publication
+- Trainers: /blog/personal-trainer-spreadsheets-to-coaching-software/ — workflow-first transition, fictional test records and controlled handover; distinct from report content, group delivery and client re-engagement. No import, automation, savings or unverified feature promises.
+- HR: /blog/workplace-wellness-budget-proposal/ — internal approval request, complete resource picture and explicit review decision; distinct from platform procurement, pilot operation, feedback and ownership. Brief CDC planning-resource context; original framework, no fabricated prices or ROI.
+- Audience/search-intent hypotheses informed by November23 weekly plan and coverage gaps; no fresh GA/GSC pull or invented volume. Preserve current coach/report/platform query targets.
+- Two distinct labeled generated WebP illustrations, contextual internal links/backlinks, metadata/schema/date, discovery CTAs, journal/sitemap. Avoid close migration or budget-proposal variants next; rotate to a distinct audience problem.
