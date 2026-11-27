@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-27",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/personal-trainer-spreadsheets-to-coaching-software/",
@@ -34,5 +34,60 @@
       "type": "AI-generated editorial illustration, visibly labeled"
     }
   ],
-  "checks": "63-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and29-cardjournal rendered at320px with imagesloaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Live verification pending."
+  "checks": "63-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and29-cardjournal rendered at320px with imagesloaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Both public HTTPS URLs, images, journal and sitemap verified200 with correct dates/canonicals and valid schema; analytics/navigation preserved.",
+  "publication_commit": "d9d0bb7",
+  "verification": [
+    {
+      "route": "/blog/personal-trainer-spreadsheets-to-coaching-software/",
+      "status": "200",
+      "bytes": 39094,
+      "title": [
+        "From spreadsheets to coaching software: a transition plan for personal trainers | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/personal-trainer-spreadsheets-to-coaching-software/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/blog/workplace-wellness-budget-proposal/",
+      "status": "200",
+      "bytes": 39564,
+      "title": [
+        "How to write a workplace wellness budget proposal leadership can evaluate | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/workplace-wellness-budget-proposal/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/assets/personal-trainer-spreadsheets-to-coaching-software.webp",
+      "status": "200",
+      "bytes": 155658
+    },
+    {
+      "route": "/assets/workplace-wellness-budget-proposal.webp",
+      "status": "200",
+      "bytes": 245932
+    },
+    {
+      "route": "/blog/",
+      "status": "200",
+      "bytes": 46633,
+      "both_posts_present": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": "200",
+      "bytes": 5938,
+      "both_posts_present": true
+    }
+  ]
 }
