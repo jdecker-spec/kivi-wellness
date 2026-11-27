@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-26",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/multi-team-club-wellness-coordination/",
@@ -34,5 +34,60 @@
       "type": "AI-generated editorial illustration, visibly labeled"
     }
   ],
-  "checks": "61-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and27-cardjournal rendered at320px with images loaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Live verification pending."
+  "checks": "61-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and27-cardjournal rendered at320px with images loaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Both public HTTPS URLs, images, journal and sitemap verified200 with correct dates/canonicals and valid schema; analytics/navigation preserved.",
+  "publication_commit": "4472f79",
+  "verification": [
+    {
+      "route": "/blog/multi-team-club-wellness-coordination/",
+      "status": "200",
+      "bytes": 39201,
+      "title": [
+        "Wellness support across multiple sports teams: what should a club standardize? | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/multi-team-club-wellness-coordination/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/blog/independent-wellness-business-vs-franchise/",
+      "status": "200",
+      "bytes": 39565,
+      "title": [
+        "Independent wellness business or franchise: compare what you want to build | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/independent-wellness-business-vs-franchise/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/assets/multi-team-club-wellness-coordination.webp",
+      "status": "200",
+      "bytes": 277212
+    },
+    {
+      "route": "/assets/independent-wellness-business-vs-franchise.webp",
+      "status": "200",
+      "bytes": 199964
+    },
+    {
+      "route": "/blog/",
+      "status": "200",
+      "bytes": 45242,
+      "both_posts_present": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": "200",
+      "bytes": 5690,
+      "both_posts_present": true
+    }
+  ]
 }
