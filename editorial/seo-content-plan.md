@@ -108,3 +108,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - Nutrition professionals: /blog/nutrition-coaching-between-appointments-support/ — service contact routes and support expectations between appointments, distinct from intake and food-record interpretation. Original service framework, no dietary prescription, product-feature or clinical claim.
 - Topics are audience/search-intent hypotheses using November23 weekly plan and rotation. No fresh GA/GSC pull or invented search volume. Existing coaching/report/platform query targets remain on refreshed URLs.
 - Distinct original labeled WebP illustrations; metadata/schema, contextual links, natural discovery CTAs, journal and sitemap. Avoid close feedback-survey/support-boundary variants next.
+
+
+## November26 daily publication
+- Club directors: /blog/multi-team-club-wellness-coordination/ — central versus squad decisions, staff coverage and consistent explanations across teams; distinct from weekly questions, athlete participation and software demo procurement. Original operating framework, no clinical or unverified hierarchy/dashboard claims.
+- Professional owners/investors: /blog/independent-wellness-business-vs-franchise/ — choice of business-building route before evaluating a particular opportunity; distinct from cost worksheet, owner role and contract-topic guides. Brief FTC system/support/control context; original comparison, no financial forecasts or Kivi contractual promises.
+- Audience/search-intent hypotheses informed by November23 weekly plan and coverage gaps; no fresh GA/GSC pull or invented volume. Preserve refreshed coach/report/platform URLs as existing query targets.
+- Distinct labeled generated WebP illustrations, contextual links/backlinks, dated schema/metadata, journal/sitemap and discovery CTAs. Avoid close club-coordination or independent/franchise comparisons next; rotate to another specific audience problem.

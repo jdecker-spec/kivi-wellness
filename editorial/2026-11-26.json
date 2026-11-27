@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-11-26",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/multi-team-club-wellness-coordination/",
+      "title": "Wellness support across multiple sports teams: what should a club standardize?",
+      "audience": "Club directors and team leaders",
+      "intent": "Build a shared support framework across squads while leaving room for each team\u2019s schedule, coaching context and appropriate professional support."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/independent-wellness-business-vs-franchise/",
+      "title": "Independent wellness business or franchise: compare what you want to build",
+      "audience": "Professional owners and investors",
+      "intent": "Compare autonomy, operating systems, support and owner responsibilities before choosing an independent wellness business or a franchise opportunity."
+    }
+  ],
+  "sources": [
+    "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
+  ],
+  "evidence": "Original operating/comparison frameworks and fictional examples; brief FTC system/support/control context. No clinical, ROI, product-feature, contract-term or earnings claims.",
+  "topic_basis": "November23 weekly plan plus audience rotation and distinct gaps; no fresh analytics or measured topic-volume claim.",
+  "images": [
+    {
+      "asset": "assets/multi-team-club-wellness-coordination.webp",
+      "generated_original": "exec-93c9197f-a9ef-47ad-be79-2866fac2d7ba.png",
+      "alt": "Illustrated sports staff planning across squads beside a football, basketball and relay baton in a clubhouse",
+      "type": "AI-generated editorial illustration, visibly labeled"
+    },
+    {
+      "asset": "assets/independent-wellness-business-vs-franchise.webp",
+      "generated_original": "exec-f0e48b21-de46-4491-a850-efd8f11e23e3.png",
+      "alt": "Illustrated workbench with two contrasting unbranded wellness studio models and blank planning sheets",
+      "type": "AI-generated editorial illustration, visibly labeled"
+    }
+  ],
+  "checks": "61-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and27-cardjournal rendered at320px with images loaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Live verification pending."
+}
