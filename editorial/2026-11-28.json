@@ -1,0 +1,38 @@
+{
+  "run_date": "2026-11-28",
+  "status": "prepared",
+  "posts": [
+    {
+      "url": "https://kiviwellness.com/blog/athlete-coaching-goal-action-support/",
+      "title": "How to set a coaching goal you can act on as an athlete",
+      "audience": "For the athlete",
+      "intent": "Turn a broad ambition into an agreed action, a realistic support request and a useful review conversation with your coach."
+    },
+    {
+      "url": "https://kiviwellness.com/blog/wellness-business-local-market-research/",
+      "title": "How to research local demand before opening a wellness business",
+      "audience": "Prospective wellness owners",
+      "intent": "Define the customer, examine alternatives and test assumptions about local demand before treating a wellness business idea as a confirmed opportunity."
+    }
+  ],
+  "sources": [
+    "https://www.sba.gov/counseling/plan-your-business/#market-research-and-competitive-analysis"
+  ],
+  "evidence": "Original conversation/research frameworks and fictional examples; brief SBA existing/direct research context. No clinical, performance, financial, local-data or unverified product claims.",
+  "topic_basis": "November23 weekly plan plus audience rotation and distinct gaps; no fresh analytics or measured volume claim.",
+  "images": [
+    {
+      "asset": "assets/athlete-coaching-goal-action-support.webp",
+      "generated_original": "exec-85671069-2110-4349-8037-9afd0db1cdce.png",
+      "alt": "Illustrated adult athlete writing in a notebook while a coach listens beside a tree-lined running track",
+      "type": "AI-generated editorial illustration, visibly labeled"
+    },
+    {
+      "asset": "assets/wellness-business-local-market-research.webp",
+      "generated_original": "exec-bbcf27f4-747a-4cfc-b946-92d61e3b84fc.png",
+      "alt": "Illustrated prospective owner studying a neighborhood map and notebook beside a window overlooking local storefronts",
+      "type": "AI-generated editorial illustration, visibly labeled"
+    }
+  ],
+  "checks": "65-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and31-cardjournal rendered at320px with imagesloaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Live verification pending."
+}

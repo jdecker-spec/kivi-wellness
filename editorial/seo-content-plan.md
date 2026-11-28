@@ -122,3 +122,10 @@ Use settled date ranges and distinguish consent-limited GA4 traffic from GSC cli
 - HR: /blog/workplace-wellness-budget-proposal/ — internal approval request, complete resource picture and explicit review decision; distinct from platform procurement, pilot operation, feedback and ownership. Brief CDC planning-resource context; original framework, no fabricated prices or ROI.
 - Audience/search-intent hypotheses informed by November23 weekly plan and coverage gaps; no fresh GA/GSC pull or invented volume. Preserve current coach/report/platform query targets.
 - Two distinct labeled generated WebP illustrations, contextual internal links/backlinks, metadata/schema/date, discovery CTAs, journal/sitemap. Avoid close migration or budget-proposal variants next; rotate to a distinct audience problem.
+
+
+## November28 daily publication
+- Athletes: /blog/athlete-coaching-goal-action-support/ — athlete-led goal/action/support conversation, distinct from staff check-in templates and app participation expectations. Original fictional planning examples, no exercise prescription, clinical or performance claim.
+- Prospective owners: /blog/wellness-business-local-market-research/ — customer demand and alternatives before commitment, distinct from territory rights, financial worksheet and ownership-route comparison. Brief primary SBA market-research context; no local data, sales forecast or guaranteed viability.
+- Audience/search-intent hypotheses from November23 weekly plan, rotation and coverage gaps; no fresh GA/GSC pull or invented volume. Preserve existing coaching/report/platform query targets.
+- Distinct labeled generated WebP illustrations, natural alt text, dated metadata/schema, contextual links/backlinks, discovery CTAs, journal/sitemap. Avoid close goal or market-demand variants next.
