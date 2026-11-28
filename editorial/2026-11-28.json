@@ -1,6 +1,6 @@
 {
   "run_date": "2026-11-28",
-  "status": "prepared",
+  "status": "published",
   "posts": [
     {
       "url": "https://kiviwellness.com/blog/athlete-coaching-goal-action-support/",
@@ -34,5 +34,60 @@
       "type": "AI-generated editorial illustration, visibly labeled"
     }
   ],
-  "checks": "65-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and31-cardjournal rendered at320px with imagesloaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Live verification pending."
+  "checks": "65-page structural audit passed; metadata/schema/dates/anchors/sitemap validated; both articles and31-cardjournal rendered at320px with imagesloaded,CTAinsideviewport and nohorizontaloverflow;viewportreset. Both public HTTPS URLs, images, journal and sitemap verified200 with correct dates/canonicals and valid schema; analytics/navigation preserved.",
+  "publication_commit": "bcd5d83",
+  "verification": [
+    {
+      "route": "/blog/athlete-coaching-goal-action-support/",
+      "status": "200",
+      "bytes": 38593,
+      "title": [
+        "How to set a coaching goal you can act on as an athlete | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/athlete-coaching-goal-action-support/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/blog/wellness-business-local-market-research/",
+      "status": "200",
+      "bytes": 39585,
+      "title": [
+        "How to research local demand before opening a wellness business | Kivi Journal"
+      ],
+      "canonical": [
+        "https://kiviwellness.com/blog/wellness-business-local-market-research/"
+      ],
+      "schema_valid": true,
+      "analytics_preserved": true,
+      "navigation_preserved": true,
+      "date_correct": true
+    },
+    {
+      "route": "/assets/athlete-coaching-goal-action-support.webp",
+      "status": "200",
+      "bytes": 288324
+    },
+    {
+      "route": "/assets/wellness-business-local-market-research.webp",
+      "status": "200",
+      "bytes": 384528
+    },
+    {
+      "route": "/blog/",
+      "status": "200",
+      "bytes": 47942,
+      "both_posts_present": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "status": "200",
+      "bytes": 6177,
+      "both_posts_present": true
+    }
+  ]
 }
